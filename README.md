@@ -8,7 +8,7 @@ To study the mode characteristics of a reflex klystron and hence determine the m
 
 ## Equipment and Components
 
-1. Klystron power supply MTI KP 503
+1. Klystron power supply MTI KP 503.    
 2. Klystron tube / 2K25
 3. Isolator MTI/NVIS-204
 4. Frequency meter MTI/NVIS-205A
@@ -68,19 +68,14 @@ As the bunches pass back through the resonator grids they interact with the gap 
 13. Change the repeller voltage and read the power and frequency for each repeller voltage.
 
 ## Observation
-
-*(Include your own table relevant to the experiment.)*
-
-## Graph
-
-*(Include your own graph relevant to the experiment.)*
+ <img width="900" height="1600" alt="IMG-20260930-WA0000" src="https://github.com/user-attachments/assets/6326bbcb-29fe-4235-bf84-d0f1ad8ae30c" />
 
 ## Precautions
 
 1. Check the connections before switching on the kit.
 2. Keep all knobs at their minimum positions before switching on the VSWR meter / klystron power supply.
 3. On the klystron power supply the **HT must be OFF** before switching on the mains supply.
-4. The beam knob must be fully anti-clockwise and the repeller voltage knob fully clockwise.
+4. The beam knob must be fully anti-clockwise and the repeller voltage knob fully clockwise. and
 5. Switch on the mains and allow some warm-up time for accurate readings.
 6. Make all connections properly.
 7. Do not look directly into the waveguide.
@@ -89,5 +84,4 @@ As the bunches pass back through the resonator grids they interact with the gap 
 10. Do not increase the repeller voltage beyond −70 V; it should stay between −70 V and 270 V.
 
 ## Conclusion
-
-*(Write your own.)*
+Thus, the mode characteristics of a reflex klystron were studied. The output power and frequency were observed for different modes. It was found that the reflex klystron operates at discrete modes, and the maximum output power is obtained at the optimum mode.
